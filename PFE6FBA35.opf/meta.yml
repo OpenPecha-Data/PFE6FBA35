@@ -1,0 +1,13 @@
+id: PFE6FBA35
+initial_creation_type: input
+source_metadata:
+  title: Saṅghabhedavastu
+  language: bo
+  volumes:
+    ff72804ad34d4aa98c0abc097b7e2241:
+      title: Title
+      base_file: Title.txt
+      work_id: WA5185F67
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:59:44.161871'
+last_modified_at: '2022-03-01T22:59:44.161878'
